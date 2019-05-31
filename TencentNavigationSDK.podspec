@@ -31,7 +31,7 @@ Pod::Spec.new do |spec|
                                develop kit.  
                    DESC
 
-  spec.homepage     = "https://github.com/ikaroswyc/TNKNavigationKit"
+  spec.homepage     = "https://github.com/ikaroswyc/TencentNavigationSDK"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -83,7 +83,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/ikaroswyc/TNKNavigationKit.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/ikaroswyc/TencentNavigationSDK.git", :tag => "#{spec.version}" }
 
   spec.platform     = :ios, "11.1"
 
